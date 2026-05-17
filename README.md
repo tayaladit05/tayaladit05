@@ -46,38 +46,7 @@ const adit = {
 
 ---
 
-## 🚀 Featured Projects
 
-### 🏥 MediNexus
-> Full-stack healthcare appointment platform
-
-- Doctor discovery + booking with specialization filters & time slots
-- AI-powered symptom checker using OpenAI API
-- Razorpay integration (online + offline payments)
-- Real-time notifications via Nodemailer & Twilio
-- Multi-role admin dashboard (hospital admin / doctor / user)
-
----
-
-### 🛍️ Bechdo — Org Marketplace
-> OLX-like marketplace restricted to verified organizational emails
-
-- Domain-based authentication — only org email users can post listings
-- JWT auth with httpOnly cookies + Cloudinary image uploads
-- Category filtering, search, and user-to-user interaction
-- Reduced fraudulent listings by ~60% via trust-layered access control
-
----
-
-### 📄 ResumeIQ
-> AI-powered resume analyzer against job descriptions
-
-- ATS score + keyword gap analysis + actionable feedback
-- PDF parsing pipeline with NLP-based keyword matching
-- Improved resume-job relevance by 60%
-- JWT-protected dashboard with real-time feedback visualization
-
----
 
 ## 📊 GitHub Stats
 
